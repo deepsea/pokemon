@@ -2,10 +2,6 @@
 
 -   yarn create react-app pokemon-react-graphql
 
-## Frontend
-
--   https://github.com/deepsea/pokemon
-
 ## Install Frontend Dependencies
 
 -   yarn add @apollo/react-hooks
