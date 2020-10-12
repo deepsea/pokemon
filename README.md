@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="public/pokemon.png">
+</p>
+
+<h1 align="center">Pokémon</h1>
+<p align="center">Pokémon reactjs and graphql <br /></p>
+
 ## Setup
 
 -   yarn create react-app pokemon-react-graphql
@@ -15,5 +22,9 @@
 -   git clone https://github.com/lucasbento/graphql-pokemon.git
 -   cd graphql-pokemon
 -   yarn install
--   yarn run watch
--   API is deployed >>>> 'http://localhost:5000'
+-   yarn run watch # Using nodemon for auto-reloading
+-   API is deployed here locally >>>> http://localhost:5000
+
+## Start
+
+-   pokemon-react-graphql> yarn start
